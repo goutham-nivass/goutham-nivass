@@ -1,7 +1,5 @@
 <!-- Header Banner -->
-<div align="center">
-  <iframe src="https://goutham-nivass.github.io/profile-banner/" frameborder="0" scrolling="no" width="100%" height="300px"></iframe>
-</div>
+[![Profile Banner](https://img.shields.io/badge/View%20My%20Banner-Click%20Here-black?style=for-the-badge)](https://goutham-nivass.github.io/profile-banner/)
 <!-- Rest of your profile content -->
 
 
