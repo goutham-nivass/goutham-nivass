@@ -1,6 +1,6 @@
-<!-- Header Banner -->
-[![Profile Banner](https://img.shields.io/badge/View%20My%20Banner-Click%20Here-black?style=for-the-badge)](https://goutham-nivass.github.io/profile-banner/)
-<!-- Rest of your profile content -->
+<div align="center">
+  <img src="Peek 2024-10-17 15-47.gif" alt="Goutham Nivass's GitHub Banner" width="100%">
+</div>
 
 
 ## Hi there 👋
