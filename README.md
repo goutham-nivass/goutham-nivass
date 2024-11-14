@@ -5,8 +5,7 @@
 ## Hi there <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30px">
 
 ## About Me:
-Machine Learning Engineer equipped with profound expertise in Machine Learning, Deep Learning,Computer vision and NLP. Enthusiastic
-about addressing business challenges through the application of AI and committed to utilizing my proficiency in Machine Learning and NLP. Substantial hands-on expertise in Python and shell scripting. Competent knowledge of AWS and building solutions using best practices of DevOps
+I’m a Senior Data Scientist with expertise in Large Language Models (LLMs) and end-to-end machine learning solutions. With a solid STEM background and experience in developing innovative AI systems, I specialize in creating custom ML pipelines and leveraging cloud-based services to deliver impactful, production-ready solutions. Passionate about exploring new advancements in data science and AI, I strive to push the boundaries of what’s possible in the field
 
 
 
